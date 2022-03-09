@@ -1,4 +1,5 @@
 {
+  "homepage": "https://julian1026.github.io/refactor",
   "scripts": {
     "start": "snowpack dev",
     "build": "snowpack build",
